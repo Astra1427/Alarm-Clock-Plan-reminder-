@@ -44,7 +44,7 @@ Introduction: "Self-discipline" is a software developed to improve self-discipli
 		设置功能 / Setting function
 			开机自启 / PowerBoot      √(bug：开机自启后查询不到计划  bug: No plan found after startup)
 		用户手册 / User manual
-			使用轮播图实现用户手册 / User Manual Using Carousel Map  √
+			使用轮播图实现用户手册(如果不能正确显示图片，请见img目录移至程序执行文件目录) / User Manual Using Carousel Map (If the picture cannot be displayed correctly, please refer to img directory to program execution file directory.)  √
     过去待完成计划自动设置为未完成      √
         提醒昨日未完成的计划				        √
 		重复计划到重复日刷新完成情况		    √
@@ -56,7 +56,7 @@ Introduction: "Self-discipline" is a software developed to improve self-discipli
 ### v1.0 2019-10-20<br/>
 发布代码/Release code<br/>
 ### v1.1  2019-10-23 / V2.0  2019-10-23<br/>
-优化代码，去除冗余代码，添加用户手册功能。 / Optimize code, remove redundant code, beautify the interface, and add user manual features.<br/>
+优化代码，去除冗余代码，添加用户手册功能。<br/> / Optimize code, remove redundant code, beautify the interface, and add user manual features.<br/>
 ## 作者:凌 / Author:ling
 ##### 邮箱 / Email ：1427917847@qq.com  | a1427917847@outlook.com 
 
