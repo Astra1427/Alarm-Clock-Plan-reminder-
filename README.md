@@ -57,7 +57,6 @@ Introduction: "Self-discipline" is a software developed to improve self-discipli
 发布代码/Release code<br/>
 ### v1.1  2019-10-23 / V2.0  2019-10-23<br/>
 优化代码，去除冗余代码，添加用户手册功能。<br/> / Optimize code, remove redundant code, beautify the interface, and add user manual features.<br/>
-## 作者:凌 / Author:ling
 ##### 邮箱 / Email ：1427917847@qq.com  | a1427917847@outlook.com 
 
 
